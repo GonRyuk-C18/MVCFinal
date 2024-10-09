@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85ff733c-8a16-4812-b407-21f91bac70dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Cesaeland_atracoes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Cesaeland_custos.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Cesaeland_logins.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Cesaeland_vendas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MVCFinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/EngController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Atracao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Custo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Venda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repositories/AtracoesRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repositories/CustosRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repositories/VendasRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tools/CsvAtracoesReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tools/CsvCustosReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tools/CsvLoginsReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tools/CsvVendasReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Views/AdminView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Views/ClientView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Views/EngView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Views/LoginView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2n6zOxbRXYz4QIG05SGOlacDdWN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/isabe/Desktop/MVCFinal/MVCFinal",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workinprogress\MVCFinal\Files" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85ff733c-8a16-4812-b407-21f91bac70dd" name="Changes" comment="" />
+      <created>1728308285079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728308285079</updated>
+      <workItem from="1728308286083" duration="4471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Controllers/AdminController.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Controllers/AdminController.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Controllers/AdminController.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Controllers/AdminController.java</url>
+          <line>163</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Controllers/AdminController.java</url>
+          <line>167</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Controllers/AdminController.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
